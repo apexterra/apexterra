@@ -1,1 +1,4 @@
-
+html, body {
+  font-family: 'Archivo', sans-serif;
+  font-family: 'Noto Color Emoji', sans-serif;
+}
